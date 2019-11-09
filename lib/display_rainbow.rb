@@ -9,4 +9,3 @@ def #display_rainbow.rb
   puts "the sixth color of the rainbowis : #{display_rainbow[5]}"
   puts "the seventh color of the rainbowis : #{display_rainbow[6]}"
 end
-  
