@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
-def #display_rainbow
+def #display_rainbow.rb
   display_rainbow(['red','orage','yellow','green','blue','indigo','violet'])
   puts "the first color of the rainbowis : #{display_rainbow[0]}"
   puts "the second color of the rainbowis : #{display_rainbow[1]}"
